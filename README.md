@@ -21,7 +21,7 @@ Another interesting project and its brief description.
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/banusri-prakash-s-4aa299225)
+- [LinkedIn](linkedin.com/in/banusri-prakash-s-4aa299225)
 - [Twitter](https://twitter.com/SBanusriprakash)
 - [Portfolio or Blog](your-website-link)
 
