@@ -25,7 +25,7 @@ Build a reliable fire alarm system using basic components like a microcontroller
 </p>
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/banusriprakash-s-4aa299225)
+- [LinkedIn](www.linkedin.com/in/banusriprakash-s66)
 - [Twitter](https://twitter.com/SBanusriprakash)
 - [Portfolio or Blog](your-website-link)
 
