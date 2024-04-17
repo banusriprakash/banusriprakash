@@ -19,12 +19,13 @@ I'm a passionate Electronics and Communication Engineering student with a keen i
     presents weather details, including temperature, weather condition, humidity, and wind speed. This documentation outlines the project's architecture, technologies used, and the functionality of each class within the application.
 </p>
 
-### [Fire alarm System]
-"Build a reliable fire alarm system using basic components like a microcontroller, buzzer, thermistor, and gas sensor. Detecting smoke or high temperatures triggers the alarm, ensuring prompt response to potential fire hazards. Customizable thresholds and integration options make it adaptable for various environments."
-
+### Fire alarm System
+</p>
+Build a reliable fire alarm system using basic components like a microcontroller, buzzer, thermistor, and gas sensor. Detecting smoke or high temperatures triggers the alarm, ensuring prompt response to potential fire hazards. Customizable thresholds and integration options make it adaptable for various environments.
+</p>
 ## Connect with Me
 
-- [LinkedIn](linkedin.com/in/banusri-prakash-s-4aa299225)
+- [LinkedIn](www.linkedin.com/in/banusriprakash-s-4aa299225)
 - [Twitter](https://twitter.com/SBanusriprakash)
 - [Portfolio or Blog](your-website-link)
 
