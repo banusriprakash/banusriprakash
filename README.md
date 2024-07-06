@@ -26,7 +26,7 @@ I'm a passionate Electronics and Communication Engineering student with a keen i
     Build a reliable fire alarm system using basic components like a microcontroller, buzzer, thermistor, and gas sensor. Detecting smoke or high temperatures triggers the alarm, ensuring prompt response to potential fire hazards. Customizable thresholds and integration options make it adaptable to various environments.
 </p>
 
-### [Car Rental System]([https://github.com/banusriprakash/CarRentalSystem/tree/main/CarRentalSystem])
+### [Car Rental System](https://github.com/banusriprakash/CarRentalSystem/tree/main/CarRentalSystem)
 <p>
     This project is a Car Rental System designed to manage vehicle rentals, bookings, and customer information. It includes features for administrators to manage inventory and reservations effectively. Built with Java and designed with robust error handling and user-friendly GUI using JavaFX.
 </p>
