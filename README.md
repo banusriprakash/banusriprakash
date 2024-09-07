@@ -21,9 +21,11 @@ I'm a passionate Electronics and Communication Engineering student with a keen i
     presents weather details, including temperature, weather conditions, humidity, and wind speed. This documentation outlines the project's architecture, technologies used, and the functionality of each class within the application.
 </p>
 
-### [Fire Alarm System](https://github.com/banusriprakash/FireAlarmSystem/tree/main)
+### [Student RestApi](https://github.com/banusriprakash/RestApiStudent)
 <p>
-    
+   Developed a Spring Boot-based Student Management API with full CRUD operations, leveraging Spring Data JPA for
+database interactions. Implemented business logic in StudentServiceImpl, with custom exception handling for missing
+data. Used SLF4J for logging key actions to ensure traceability and ease of debugging. 
 </p>
 
 ### [Car Rental System](https://github.com/banusriprakash/CarRentalSystem/tree/main)
