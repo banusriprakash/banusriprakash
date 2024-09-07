@@ -35,7 +35,7 @@ data. Used SLF4J for logging key actions to ensure traceability and ease of debu
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/banusriprakash-s66)
+- [LinkedIn](https://www.linkedin.com/in/banusriprakash-s66/)
 - [Twitter](https://twitter.com/SBanusriprakash)
 - [Portfolio or Blog](your-website-link)
 
